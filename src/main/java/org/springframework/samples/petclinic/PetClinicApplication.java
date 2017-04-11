@@ -29,8 +29,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PetClinicApplication {
 
     public static void main(String[] args) throws Exception {
-        // simple comment;
-        int iu = 0;
+        // simple dss comment;
+        int iu = 5;
         SpringApplication.run(PetClinicApplication.class, args);
     }
 
